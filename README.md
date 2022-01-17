@@ -15,5 +15,3 @@ python app.py
 ```
 
 > Product deployed @ https://shopify-be-deploy.herokuapp.com/
-
-> [Link](https://github.com/gpham99/Shopify-Backend-Challenge-2022-Deployed) to the code of the Heroku Web App
