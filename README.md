@@ -13,3 +13,4 @@ pip install flask_sqlalchemy
 python app.py
 ```
 
+> This is the link to the deployed product I've made: https://shopify-be-deploy.herokuapp.com/
