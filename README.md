@@ -1,6 +1,7 @@
 # Shopify-Backend-Challenge-2022
 
-> Python Flask Inventory Tracking Web Application
+> Python Flask Inventory Tracking Web Application <br/>
+> The additional feature I chose is push a button export product data to a CSV.
 
 ```
 # For deployment, change the DATABASE URI in app.py
@@ -13,4 +14,6 @@ pip install flask_sqlalchemy
 python app.py
 ```
 
-> This is the link to the deployed product I've made: https://shopify-be-deploy.herokuapp.com/
+> Product deployed @ https://shopify-be-deploy.herokuapp.com/
+
+> [Link](https://github.com/gpham99/Shopify-Backend-Challenge-2022-Deployed) to the code of the Heroku Web App
