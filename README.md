@@ -3,7 +3,7 @@
 > Python Flask Inventory Tracking Web Application
 
 ```
-# Add your DATABASE URI in app.py
+# For deployment, change the DATABASE URI in app.py
 
 # Install dependencies
 pip install flask
